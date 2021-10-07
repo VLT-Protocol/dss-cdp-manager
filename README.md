@@ -1,3 +1,8 @@
+# Link
+
+Original repo https://github.com/makerdao/dss-cdp-manager, for fetching and merge change add new remote with command git remote add maker https://github.com/makerdao/dss-cdp-manager.
+
+
 # 1. Introduction (Summary)
 
 **Summary:** The `DssCdpManager` (aka `manager`) was created to enable a formalized process for CDPs to be transferred between owners. In short, the `manager` works by having a `dss` wrapper that allows users to interact with their CDPs in an easy way, treating them as non-fungible tokens (NFTs).
